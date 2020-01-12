@@ -1,0 +1,108 @@
+    1  git branch
+    2  git checkout -b developer_branch
+    3  git branch
+    4  git checkout master
+    5  git checkout developer_branch
+    6  ls
+    7  git log
+    8  vi index2.html
+    9  git add index.html
+   10  git commit -m "2nd file in 2nd branch"
+   11  ls
+   12  cat index2.html
+   13  git branch master
+   14  git checkout master
+   15  ls 
+   16  cat index2.html
+   17  git checkout development_branch
+   18  git branch
+   19  git checkout developer_branch
+   20  git checkout developer_branch
+   21  git checkout master
+   22  ls
+   23  cat index2.html
+   24  git branch
+   25  git checkout developer_branch
+   26  ls
+   27  git branch
+   28  vi index2.html
+   29  cat index2.html
+   30  git branch
+   31  git add index2.html
+   32  git commit -m "2nd time"
+   33  git checkout master
+   34  ls
+   35  cat index2.html
+   36  git checkout master
+   37  vi index2.html
+   38  yum install git -y
+   39  git --version
+   40  clear
+   41  git --version
+   42  git --version
+   43  git --version
+   44  git --version
+   45  clear
+   46  date
+   47  calender
+   48  calendar
+   49  calander
+   50  clear
+   51  who
+   52  w
+   53  ip
+   54  clear
+   55  pwd
+   56  mkdir GIT
+   57  ls
+   58  cd GIT
+   59  git init
+   60  vi index.html
+   61  git status
+   62  git log
+   63  git add index.html
+   64  git status
+   65  git commit -m "Creating a file index.html"
+   66  git status
+   67  git status
+   68  history
+   69  git log
+   70  git init
+   71  git log
+   72  ls
+   73  cd GIT
+   74  git log
+   75  git show 90a73db0f177e704cf4db99348337dfc87615a66
+   76  git show 90a73db0f177e704cf4db99348337dfc87615a66
+   77  git config user.email "amitkr9894@gmail.com"
+   78  git config user.name "Amit"
+   79  vi index.html
+   80  git add index.html
+   81  git commit -m "edited file"
+   82  git log
+   83  git show f6f0412088368b1eafa761ac534ef7cfb3c1fd7d
+   84  vi index2.html
+   85  git add index2.html
+   86  git commit -m "2nd File"
+   87  git status
+   88  git log
+   89  git branch
+   90  git checkout developer_branch 
+   91  git pull
+   92  ls
+   93  git branch
+   94  vi index4.html
+   95  vi index5.html
+   96  git add index4.html
+   97  git add index5.html
+   98  git commit "4 and 5"
+   99  git commit -m "4 and 5"
+  100  vi index6.html
+  101  git add index6.html
+  102  git commit "6"
+  103  git commit -m  "6"
+  104  git log --oneline
+  105  git checkout master
+  106  git cherry-pick 0eee10b
+  107  history
+  108  history >> history.txt
